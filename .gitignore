@@ -1,0 +1,9 @@
+# Sanal ortam dosyası
+venv/
+# Python cache dosyaları
+__pycache__/
+*.pyc
+# Jupyter notebook dosyaları
+.ipynb_checkpoints
+# VSCode ayarları (isteğe bağlı)
+.vscode/
